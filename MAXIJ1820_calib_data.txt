@@ -1,0 +1,5 @@
+Calibrator       Band        offset_RA  offset_RA_er    offset_dec      offset_dec_er       Ion.sys.ra     Ion.sys.dec       sys_VLBA_RA     sys_VLBA_DEC          sys_EVN_RA      sys_EVN_DEC
+J1821            5           0          0               0               0                   24             122               36.24           110.31                72.16           23.74
+J1821            15          0          0               0               0                   3              14                36.24           110.31                72.16           23.74
+J1813            5           -0.29      0.08            -0.05           0.02                152            82                55.85           101.79                95.63           54.73
+J1813            15          -0.29      0.08            -0.05           0.02                17             9                 55.85           101.79                95.63           54.73
